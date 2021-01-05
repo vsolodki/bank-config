@@ -1,0 +1,9 @@
+zuul:
+  routes:
+    operations-service: /operations/**
+    account-service: /account/**
+    user-service: /user/**
+    api-gateway: /gateway/**
+
+server:
+  port: 8080
