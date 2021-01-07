@@ -1,7 +1,3 @@
-server:
-  port: 0
-  shutdown: graceful
-
 spring:
   sleuth:
     sampler:
